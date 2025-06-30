@@ -1,14 +1,27 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio Responsive Complete
+# 💻 Rachit Gaur — Personal Portfolio Website
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+Welcome to my personal portfolio website built with **HTML, CSS, JavaScript**, and enhanced with features like **Dark Mode**, **Video Project Showcases**, and even a **Floating 3D Planet** using **Three.js**.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+## 🚀 Features
 
-![preview img](/preview.png)
+- 🌐 Fully Responsive Modern UI
+- 🎨 Light/Dark Mode Toggle (with preference memory)
+- 🔗 Social Links to GitHub and LinkedIn
+- 📹 Video Demonstration of Projects
+- 🌍 Interactive 3D Floating Planet with Three.js
+- 🧠 Skills and Tech Stack Progress Display
+- 💬 Smooth Contact Form (UI only)
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3** (+ custom styles & layout)
+- **JavaScript (Vanilla JS)**
+- **Three.js** for 3D interaction
+- **Boxicons** for vector icons
+- **ScrollReveal** for smooth scroll animations
+
+## 📂 Folder Structure
+
+
 
